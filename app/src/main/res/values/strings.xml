@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tutorial tes t</string>
+    <string name = "follow"> Follow</string>
+    <string name = "message"> Message</string>
+    <string name = "description"> Lorem ipsum dolor sit amet,
+        \nconsectetur  adipiscing elit,
+        \n sed do elusmod tempor incididunt ut labore et dolore magna aliquar</string>
+</resources>
